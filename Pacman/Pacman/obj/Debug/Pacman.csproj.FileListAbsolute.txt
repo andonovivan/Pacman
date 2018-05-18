@@ -1,0 +1,10 @@
+C:\Users\ivana\Documents\C#\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\ivana\Documents\C#\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\ivana\Documents\C#\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\ivana\Documents\C#\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
